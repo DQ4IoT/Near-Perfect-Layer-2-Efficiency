@@ -124,4 +124,4 @@ long cola_paquetes::lee_1er_elemento()
 void cola_paquetes::marca_final()
 {
 	marcas[num_elementos-1]=true;
-};Enter file contents here
+};
