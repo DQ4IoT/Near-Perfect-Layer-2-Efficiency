@@ -40,4 +40,3 @@ public:
 };
 
 #endif // !defined(AFX_COLA_PAQUETES_H__65E4A121_59E9_11D2_B365_00C0F0230BD7__INCLUDED_)
-Enter file contents here
