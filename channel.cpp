@@ -126,4 +126,3 @@ bool channel::Colision() {
 		return false;
 	};
 };
-Enter file contents here
