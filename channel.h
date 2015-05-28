@@ -35,4 +35,3 @@ public:
 };
 
 #endif // !defined(AFX_channel_H__3A72AF23_578F_11D2_B365_00C0F0230BD7__INCLUDED_)
-Enter file contents here
